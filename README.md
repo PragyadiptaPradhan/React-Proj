@@ -1,5 +1,6 @@
 # React Learning Projects
 
+
 This repository contains a collection of React projects designed to help you learn React through hands-on practice.
 
 ## Objective
@@ -27,5 +28,9 @@ The main goal of this repository is to provide practical React projects that pro
 ## Projects Structure
 
 Each project focuses on specific React concepts and gradually increases in complexity to reinforce learning.
+
+[##Mentor](https://www.youtube.com/@chaiaurcode)
+[Video tutorial](https://youtu.be/FxgM9k1rg0Q?si=whEjJwivR1hWlgK1)
+
 
 Happy coding! 🚀
