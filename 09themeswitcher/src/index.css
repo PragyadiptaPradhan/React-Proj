@@ -1,0 +1,4 @@
+/* trunk-ignore-all(prettier) */
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
